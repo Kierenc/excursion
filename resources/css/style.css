@@ -6,3 +6,8 @@ body {
   text-align: center;
   background-color: black;
 }
+
+.download {
+  color: Aquamarine;
+  font-size: 16px;
+}
